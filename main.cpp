@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int a=0;
     cin >> a;
-    int array[a];
+    float array[a];
     for ( int i=0; i<a ; i++){
         array[i]=0;
     }
