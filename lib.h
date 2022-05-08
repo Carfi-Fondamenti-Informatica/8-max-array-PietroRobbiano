@@ -3,4 +3,4 @@
 
 #endif //ESERCIZIO_8_LIB_H
 
-int numeromaggiore( int a[], int dimensione);
+float numeromaggiore( float a[], int dimensione);
